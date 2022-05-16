@@ -1,0 +1,2 @@
+# Framingham-Study-Analysis
+For my SPH BS 853 (Generalized Linear Models with Applications) final project, I examined association between incidence of heart disease with cholesterol levels and smoking using data collected on the Framingham Study population. You can also read my [full report](https://github.com/irenehsueh49/Framingham-Study-Analysis/blob/main/Framingham%20Report.pdf) and view my [presentation](https://github.com/irenehsueh49/Framingham-Study-Analysis/blob/main/Framingham%20Presentation.pdf) in this repository. 
